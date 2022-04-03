@@ -1,14 +1,12 @@
 // ==UserScript==
-// @name         Reddit Place - Armée de Kameto
+// @name         Reddit Place - FC Fleur
 // @namespace    http://tampermonkey.net/
 // @version      0.3
-// @description  On va récuperer ce qui nous est dû de droit.
-// @author       Adcoss95
+// @description  Vive les fleurs !!!
+// @author       Stimm4
 // @match        https://hot-potato.reddit.com/embed*
 // @icon         https://styles.redditmedia.com/t5_4eiiz1/styles/communityIcon_ojy24r8j90o81.jpg
 // @grant        none
-// @downloadURL  https://github.com/CorentinGC/reddit-place-kcorp/raw/main/kcorp.user.js?v=1.03
-// @updateURL    https://github.com/CorentinGC/reddit-place-kcorp/raw/main/kcorp.user.js?v=1.03
 // ==/UserScript==
 const IMG_URL = 'https://github.com/Stimm444/FleurPixelWar/raw/main/flower_pixel_war.png'
 if (window.top !== window.self) {
