@@ -10,7 +10,7 @@
 // @downloadURL  https://github.com/CorentinGC/reddit-place-kcorp/raw/main/kcorp.user.js?v=1.03
 // @updateURL    https://github.com/CorentinGC/reddit-place-kcorp/raw/main/kcorp.user.js?v=1.03
 // ==/UserScript==
-const IMG_URL = 'https://github.com/Stimm444/FleurPixelWar/raw/main/ponce_scriptV3.png'
+const IMG_URL = 'https://github.com/Stimm444/FleurPixelWar/raw/main/flower_pixel_war.png'
 if (window.top !== window.self) {
     window.addEventListener('load', () => {
             document.getElementsByTagName("mona-lisa-embed")[0].shadowRoot.children[0].getElementsByTagName("mona-lisa-canvas")[0].shadowRoot.children[0].appendChild(
