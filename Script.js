@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.3
 // @description  Vive les fleurs !!!
-// @author       Stimm4
+// @author       Stimm4 (Dev) / Ρhantοm(Lead) / Haykira(Pixel Artist)
 // @match        https://hot-potato.reddit.com/embed*
 // @icon         https://styles.redditmedia.com/t5_4eiiz1/styles/communityIcon_ojy24r8j90o81.jpg
 // @grant        none
