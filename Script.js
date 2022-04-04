@@ -5,7 +5,7 @@
 // @description  Vive les fleurs !!!
 // @author       Stimm4 (Dev) / Ρhantοm(Lead) / Haykira(Pixel Artist)
 // @match        https://hot-potato.reddit.com/embed*
-// @icon         https://styles.redditmedia.com/t5_4eiiz1/styles/communityIcon_ojy24r8j90o81.jpg
+// @icon         
 // @grant        none
 // ==/UserScript==
 const IMG_URL = 'https://github.com/Stimm444/FleurPixelWar/raw/main/flower_pixel_war.png'
